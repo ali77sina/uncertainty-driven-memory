@@ -1,0 +1,18 @@
+{
+  "base": 0.2,
+  "adapter": 0.0,
+  "adapter_params": 248833,
+  "train_time": 102.2777516929782,
+  "base_by_type": {
+    "percentage": 0.0,
+    "sequential": 0.0,
+    "multi_step": 0.64,
+    "comparison": 0.0
+  },
+  "adapter_by_type": {
+    "percentage": 0.0,
+    "sequential": 0.0,
+    "multi_step": 0.0,
+    "comparison": 0.0
+  }
+}
