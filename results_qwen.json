@@ -1,0 +1,20 @@
+{
+  "Greedy": {
+    "accuracy": 0.8,
+    "avg_forward_passes": 70.16,
+    "total_correct": 40,
+    "total": 50
+  },
+  "Entropy Branch": {
+    "accuracy": 0.98,
+    "avg_forward_passes": 64.94,
+    "total_correct": 49,
+    "total": 50
+  },
+  "Density Branch": {
+    "accuracy": 0.98,
+    "avg_forward_passes": 64.94,
+    "total_correct": 49,
+    "total": 50
+  }
+}
